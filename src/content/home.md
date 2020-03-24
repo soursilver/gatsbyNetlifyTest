@@ -1,8 +1,9 @@
 ---
-title: My Test Site
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-        enim ad minim veniam, quis nostrud exercitation ullamco laboris
-        nisi ut aliquip ex ea commodo consequat.
+title: My Logo Here
+intro: >-
+  You vexed shy mirth now noise. Talked him people valley add use her depend
+  letter. Allowance too applauded now way something recommend. Mrs age men and
+  trees jokes fancy. Gay pretended engrossed eagerness continued ten. Admitting
+  day him contained unfeeling attention mrs out.
 image: /img/sp_256gb_ssd.jpg
 ---
