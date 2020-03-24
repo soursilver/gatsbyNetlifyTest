@@ -1,5 +1,5 @@
 ---
 title: Test
-intro: I just want to be able to test something.
+intro: did it change?
 image: /img/sp_256gb_ssd.jpg
 ---
